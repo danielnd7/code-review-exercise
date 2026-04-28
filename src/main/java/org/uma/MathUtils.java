@@ -1,4 +1,4 @@
-package org.example;
+package org.uma;
 
 /**
  * Auxiliary math utilities.
